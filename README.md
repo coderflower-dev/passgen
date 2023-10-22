@@ -7,7 +7,7 @@ Generates a password (use if you want)
 
 ## To compile for Linux
 `bash build.sh` in Terminal
-## To compile for Mac
+## To compile for Mac (if zsh)
 `sh build.sh` in Terminal
 ## To compile for Windows
 `build.bat` in Console (Modify `gcc` in `build.bat` to your own compiler)
