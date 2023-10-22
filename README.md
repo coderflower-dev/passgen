@@ -10,4 +10,4 @@ Generates a password (use if you want)
 ## To compile for Mac
 `sh build.sh` in Terminal
 ## To compile for Windows
-`build.bat` in Console.
+`build.bat` in Console (Modify `gcc` in `build.bat` to your own compiler)
