@@ -1,6 +1,6 @@
 # passgen
 Generates a random (ish) password
-(Comes with MacOS intel binaries)
+(Comes with MacOS intel binaries, it is the unmarked `passgen` file.)
 
 ## Purpose:
 Generates a password (use if you want)
