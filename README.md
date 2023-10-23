@@ -1,6 +1,6 @@
 # passgen
 Generates a random (ish) password
-(Comes with MacOS Intel binaries, it is the unmarked `passgen` file.)
+(Comes with MacOS Intel binaries ([Itanium]([url](https://en.wikipedia.org/wiki/Itanium)) mac when ), it is the unmarked `passgen` file.)
 
 ### Purpose:
 Generates a password (I don't know if it is trustable)
