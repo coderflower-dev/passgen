@@ -1,7 +1,7 @@
 # passgen
 Generates a random (ish) password.
+
 This is a command line tool please run it from the console.
-(Please recompile the program, the binary contains outdated code.)
 
 ### Purpose:
 Generates a password (I don't know if it is trustable)
