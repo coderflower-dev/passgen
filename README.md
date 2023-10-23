@@ -11,5 +11,6 @@ Generates a password (I don't know if it is trustable)
 `sh build.sh` in Terminal
 ### To compile for Windows
 `build.bat` in Console (Modify `gcc` in `build.bat` to your own compiler)
+Windows users run the program from Console, running the exe normally will not work.
 
 *https://en.wikipedia.org/wiki/Itanium
