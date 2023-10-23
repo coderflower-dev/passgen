@@ -42,12 +42,13 @@ std::string generate(int length = 20)
 int main(int argc, char *argv[])
 {
   std::ofstream savetxt;
-  savetxt.open("passwords.txt");
+  //so it appends
+  savetxt.open("passwords.txt", std::ios:app);
 
   //command line arguments
   //code from geeksforgeeks.org
-
-  std::cout << "Created by Timur HG." << std::endl;
+  //I was testing things out so in the binary it says "by Timur HG".
+  std::cout << "Created by Timur G." << std::endl;
   std::cout << "============" << std::endl;
   std::string password = generate(10);
   std::cout << password << std::endl;
