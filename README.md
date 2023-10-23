@@ -3,7 +3,7 @@ Generates a random (ish) password
 (Comes with MacOS intel binaries, it is the unmarked `passgen` file.)
 
 ## Purpose:
-Generates a password (use if you want)
+Generates a password (I don't know if it is trustable)
 
 ## To compile for Linux
 `bash build.sh` in Terminal
