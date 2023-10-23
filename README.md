@@ -14,3 +14,7 @@ Generates a password (I don't know if it is trustable)
 Windows users run the program from Console, running the exe normally will not work.
 
 *https://en.wikipedia.org/wiki/Itanium
+
+### v2 now has:
+-Command line arguments, run the program and type the name of the place where you use it (just easier to remember)
+-Saves passwords in `passwords.txt`
