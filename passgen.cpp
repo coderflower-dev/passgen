@@ -6,6 +6,7 @@
 #include <ctype.h>
 #include <random>
 #include <fstream>
+#include <ctime>
 
 std::string generate(int length = 20)
 {
@@ -43,7 +44,7 @@ int main(int argc, char *argv[])
 {
   std::ofstream savetxt;
   //so it appends
-  savetxt.open("passwords.txt", std::ios:app);
+  savetxt.open("passwords.txt", std::ios::app);
 
   //command line arguments
   //code from geeksforgeeks.org
