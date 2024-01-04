@@ -1,6 +1,5 @@
 # passgen
-Generates a random (ish) password.
-
+Generates a random (ish) password.<br>
 This is a command line tool please run it from the console.
 
 ## Purpose:
