@@ -12,6 +12,4 @@ Run `build_win.bat` for Windows<br>
 Run `build_unix.sh` for Unix/MacOS
 
 ### V2 now has:
--Command line arguments, run the program and type the name of the place where you use it (just easier to remember)
--Saves passwords in `passwords.txt`
--Example `passgen google` -> Google {password} in `passwords.txt`
+-Command line arguments. Type the use case for the password, then the use case and the password will be stored in `passwords.txt`
