@@ -48,14 +48,16 @@ int main(int argc, char *argv[])
 
   //command line arguments
   //code from geeksforgeeks.org
-  //I was testing things out so in the binary it says "by Timur HG".
-  std::cout << "Created by Timur G." << std::endl;
+  std::cout << "Created by DrFlower" << std::endl;
   std::cout << "============" << std::endl;
   std::string password = generate(10);
   std::cout << password << std::endl;
   std::cout << "============" << std::endl;
+  if(argv[1] != "--nosave")
+  {
   std::string purpose = argv[1];
   savetxt << purpose << ": " << password << "\n";
-  savetxt.close();    
+  savetxt.close();
+  }
   return 0;
 }
