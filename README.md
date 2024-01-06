@@ -13,4 +13,3 @@ Run `build_unix.sh` for Unix/MacOS
 
 ### Version 2.1 now has:
 -Command line arguments. Type the use case for the password, then the use case and the password will be stored in `passwords.txt`<br>
--Type `--nosave` if you do not want to save the password in a text file (Not tested)
