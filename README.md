@@ -8,8 +8,7 @@ The license is a modified FreeBSD license, basically you have to give credit to 
 ## Purpose:
 Generates a password (I don't know if it is trustable)
 
-Run `build_win.bat` for Windows<br>
-Run `build_unix.sh` for Unix/MacOS
+Run `Makefile` to build it
 
 ### Version 2.1 now has:
 -Command line arguments. Type the use case for the password, then the use case and the password will be stored in `passwords.txt`<br>
