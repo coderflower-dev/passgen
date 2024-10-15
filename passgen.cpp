@@ -1,4 +1,4 @@
-//Original python code by ChatGPT, converted by Timur Gabdrakhmanov 10/22/2023
+//Original python code by ChatGPT, converted by CoderFlowerDev 10/22/2023
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
